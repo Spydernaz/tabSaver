@@ -2,7 +2,7 @@
     "name": "tabSaver",
     "description":"An extention that allows you to export and import a bunch of tabs",
     "version": "0.1",
-    "manifest_version": "0.1",
+    "manifest_version": 3,
     "permissions":[
         "tabs"
     ],
